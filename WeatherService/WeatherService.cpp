@@ -2,6 +2,7 @@
 //
 
 #include <iostream>
+#include "pugixml-1.13/src/pugixml.hpp"
 
 int main()
 {
