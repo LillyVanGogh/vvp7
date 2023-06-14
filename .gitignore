@@ -1,5 +1,8 @@
 .vs/
 x64/
+WeatherService/x64
+WeatherService/include
+Debug/
 WeatherService/x64/Debug
 WeatherService/include
 Debug/
