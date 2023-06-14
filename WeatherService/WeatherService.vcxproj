@@ -143,9 +143,6 @@
     <Xml Include="weather.xml" />
   </ItemGroup>
   <ItemGroup>
-    <Xml Include="weather.xml" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="weather.json" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
