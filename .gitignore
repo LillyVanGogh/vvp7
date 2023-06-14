@@ -3,4 +3,4 @@ x64/
 WeatherService/x64
 WeatherService/include
 WeatherService/pugixml-1.13
-debug/
+Debug/
